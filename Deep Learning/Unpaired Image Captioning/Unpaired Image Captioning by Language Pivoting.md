@@ -20,6 +20,8 @@ By minimizing the image captioning model and NMT model's input embedding l2 dist
 By minimizing the NMT model's output and autoencoder input embedding l2 distance;
 
 # Experiment
+AIC-MT MSCOCO AIC-ICC
+You need to extract english caption from MSCOCO to train the auto encoder.
 
 # Confused and Knowledge blind spot
 * Exposure bias and loss-evaluation mismatch
